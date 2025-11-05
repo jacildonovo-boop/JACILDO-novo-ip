@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JC IPTV Painel Premium</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+  body { background-color: #111; color: #FFD700; line-height: 1.6; }
+  header { text-align: center; padding: 50px 20px; }
+  header h1 { font-size: 2.5em; margin-bottom: 10px; }
+  header p { font-size: 1.2em; color: #ccc; }
+  .container { max-width: 900px; margin: 0 auto; padding: 20px; }
+  .plan { background-color: #222; padding: 30px; border-radius: 15px; text-align: center; margin-top: 30px; box-shadow: 0 0 15px rgba(255,215,0,0.3); }
+  .plan h2 { font-size: 2em; margin-bottom: 15px; }
+  .plan p { font-size: 1.2em; margin-bottom: 20px; }
+  .plan .price { font-size: 2.2em; color: #FFD700; margin-bottom: 20px; }
+  .btn-whatsapp { display: inline-block; background-color: #25D366; color: #fff; padding: 15px 30px; border-radius: 10px; font-size: 1.2em; text-decoration: none; transition: 0.3s; }
+  .btn-whatsapp:hover { background-color: #1DA851; }
+  footer { text-align: center; padding: 30px 20px; color: #ccc; font-size: 0.9em; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>JC IPTV Painel Premium</h1>
+  <p>Tenha acesso completo ao melhor serviço de IPTV com painel premium e funcionalidades exclusivas!</p>
+</header>
+
+<div class="container">
+  <div class="plan">
+    <h2>Plano Único</h2>
+    <p>Pagamento único, acesso vitalício ao painel premium.</p>
+    <div class="price">R$25</div>
+    <a href="https://wa.me/5543998694974" class="btn-whatsapp" target="_blank">Comprar pelo WhatsApp</a>
+  </div>
+</div>
+
+<footer>
+  &copy; 2025 JC IPTV. Todos os direitos reservados.
+</footer>
+
+</body>
+</html>
